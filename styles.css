@@ -6,9 +6,18 @@
     height: 10%;
     border-bottom: 2px solid black;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     background-color: white;
+}
+.left {
+    margin-left: 5px;
+}
+.right {
+    margin-right: 5px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
 .topSection img {
     height: 100%;
