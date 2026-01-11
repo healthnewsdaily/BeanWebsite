@@ -12,6 +12,15 @@
 }
 .left {
     margin-left: 5px;
+    height: 100%;
+    width: 100/3%;
+}
+.center {
+    height: 100%;
+    width: 100/3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .right {
     margin-right: 5px;
