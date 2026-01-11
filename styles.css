@@ -1,6 +1,7 @@
 body {
     margin: 10px;
     font-family: 'Roboto', sans-serif;
+    line-height: 2;
 }
 .container {
     margin: 30px auto;
