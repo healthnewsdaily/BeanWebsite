@@ -28,7 +28,7 @@
     height: 50%;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 50px;
 }
 .topSection img {
     height: 100%;
