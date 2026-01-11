@@ -5,3 +5,7 @@ body {
     margin: 30px auto;
     max-width: 800px;
 }
+.introImg {
+    width: 50%;
+    height: auto;
+}
