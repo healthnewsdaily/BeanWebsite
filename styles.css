@@ -1,6 +1,6 @@
 body {
     margin: 10px;
-    font-family: 'Roboto', lucida;
+    font-family: Verdana, sans-serif;
     line-height: 2;
 }
 .container {
@@ -12,9 +12,10 @@ body {
     height: auto;
 }
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     font-weight: bold;
+    font-family: 'Trebuchet MS', sans-serif;
 }
 p {
-    font-size: 1.5em;
+    font-size: 2em;
 }
