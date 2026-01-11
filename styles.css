@@ -1,0 +1,7 @@
+body {
+    margin: 10px;
+}
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+}
