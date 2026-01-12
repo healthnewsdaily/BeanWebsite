@@ -22,7 +22,7 @@
     align-items: center;
 }
 .right {
-    margin-right: 0px;
+    margin-right: 10px;
     width: 33%;
     height: 35%;
     display: flex;
