@@ -26,7 +26,7 @@
     width: 33%;
     height: 35%;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     gap: 10px;
 }
